@@ -21,12 +21,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/grouparoo/grouparoo/master/ui/public/%40grouparoo/logo.png
   name: Upptime
   introTitle: "**Upptime**: Monitoring Grouparoo"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/grouparoo/upptime). No server required — just GitHub Actions, Issues, and Pages.
+  introMessage: Grouparoo syndicates your customer profiles and groups to the places where they make a difference.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    # - title: GitHub
+    #   href: https://github.com/$OWNER/$REPO
     - title: Back to Grouparoo
       href: https://www.grouparoo.com
 # Upptime also supports notifications, assigning issues, and more
