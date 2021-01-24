@@ -25,5 +25,5 @@ This repository contains the open-source uptime monitor and status page for [Gro
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Grouparoo](www.grouparoo.com)
+- Code: [MIT](./LICENSE) © [Grouparoo](https://www.grouparoo.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
