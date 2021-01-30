@@ -1,7 +1,7 @@
 url: $STAGING_SITE_ENDPOINT
 status: up
 code: 200
-responseTime: 124
-lastUpdated: 2021-01-29T23:04:26.502Z
+responseTime: 212
+lastUpdated: 2021-01-30T23:04:13.749Z
 startTime: Sun Jan 24 2021 00:18:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
