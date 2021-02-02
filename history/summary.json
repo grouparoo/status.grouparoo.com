@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 127,
-    "timeWeek": 297,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "time": 247,
+    "timeDay": 488,
+    "timeWeek": 327,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
+    "time": 175,
     "timeDay": 253,
-    "timeWeek": 198,
-    "timeMonth": 168,
-    "timeYear": 168,
+    "timeWeek": 209,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,19 @@
     "url": "$STAGING_SITE_ENDPOINT",
     "icon": "https://www.grouparoo.com/favicon/favicon-196x196.png",
     "slug": "staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 298,
-    "timeWeek": 212,
-    "timeMonth": 197,
-    "timeYear": 197,
-    "dailyMinutesDown": {}
+    "time": 204,
+    "timeDay": 272,
+    "timeWeek": 225,
+    "timeMonth": 204,
+    "timeYear": 204,
+    "dailyMinutesDown": {
+      "2021-02-02": 0
+    }
   }
 ]
