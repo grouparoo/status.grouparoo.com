@@ -10,8 +10,11 @@ sites:
   - name: telemetry.grouparoo.com
     url: https://telemetry.grouparoo.com
     icon: https://www.grouparoo.com/favicon/favicon-196x196.png
-  - name: Staging
-    url: $STAGING_SITE_ENDPOINT
+  - name: Staging Community
+    url: $STAGING_COMMUNITY_URL
+    icon: https://www.grouparoo.com/favicon/favicon-196x196.png
+  - name: Staging Enterprise
+    url: $STAGING_ENTERPRISE_URL
     icon: https://www.grouparoo.com/favicon/favicon-196x196.png
 
 status-website:
