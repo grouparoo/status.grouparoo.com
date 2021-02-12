@@ -4,9 +4,9 @@
     "url": "https://www.grouparoo.com",
     "icon": "https://www.grouparoo.com/favicon/favicon-196x196.png",
     "slug": "www-grouparoo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 174,
     "timeMonth": 216,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-12": 0
+    }
   },
   {
     "name": "telemetry.grouparoo.com",
