@@ -7,6 +7,8 @@ sites:
   - name: www.grouparoo.com
     url: https://www.grouparoo.com
     icon: https://www.grouparoo.com/favicon/favicon-196x196.png
+  - name: www.google.com
+    url: https://www.google.com
   - name: telemetry.grouparoo.com
     url: https://telemetry.grouparoo.com
     icon: https://www.grouparoo.com/favicon/favicon-196x196.png
