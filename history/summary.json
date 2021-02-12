@@ -42,19 +42,19 @@
     "url": "$STAGING_COMMUNITY_URL",
     "icon": "https://www.grouparoo.com/favicon/favicon-196x196.png",
     "slug": "staging-community",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 282,
-    "timeWeek": 259,
-    "timeMonth": 262,
-    "timeYear": 262,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 254,
+    "timeDay": 252,
+    "timeWeek": 249,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {
-      "2021-02-12": 0
+      "2021-02-12": 19
     }
   },
   {
