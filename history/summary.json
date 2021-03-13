@@ -8,13 +8,13 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 313,
-    "timeDay": 491,
-    "timeWeek": 422,
-    "timeMonth": 388,
-    "timeYear": 313,
+    "time": 315,
+    "timeDay": 375,
+    "timeWeek": 436,
+    "timeMonth": 417,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2021-02-12": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 115,
-    "timeWeek": 138,
-    "timeMonth": 199,
-    "timeYear": 201,
+    "time": 199,
+    "timeDay": 101,
+    "timeWeek": 133,
+    "timeMonth": 194,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://www.grouparoo.com/favicon/favicon-196x196.png",
     "slug": "staging-community",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 224,
-    "timeDay": 93,
-    "timeWeek": 160,
-    "timeMonth": 213,
-    "timeYear": 224,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
+    "time": 221,
+    "timeDay": 99,
+    "timeWeek": 151,
+    "timeMonth": 211,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2021-02-12": 19
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 112,
-    "timeWeek": 129,
-    "timeMonth": 200,
-    "timeYear": 217,
+    "time": 215,
+    "timeDay": 148,
+    "timeWeek": 131,
+    "timeMonth": 197,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   }
 ]
