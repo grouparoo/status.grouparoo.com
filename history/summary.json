@@ -65,7 +65,7 @@
     "url": "$STAGING_ENTERPRISE_URL",
     "icon": "https://www.grouparoo.com/favicon/favicon-196x196.png",
     "slug": "staging-enterprise",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
