@@ -1,7 +1,7 @@
 url: $STAGING_ENTERPRISE_URL
-status: up
-code: 200
-responseTime: 155
-lastUpdated: 2021-04-22T23:01:22.015Z
+status: down
+code: 503
+responseTime: 125
+lastUpdated: 2021-04-23T02:56:55.319Z
 startTime: Thu Feb 04 2021 00:46:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
